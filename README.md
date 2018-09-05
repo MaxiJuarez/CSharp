@@ -1,1 +1,1 @@
-# This folder stores the CSharp exercises from my scholl classes.
+# This folder stores the C# exercises from my school classes.
